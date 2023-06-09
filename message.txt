@@ -1,0 +1,2 @@
+This is just me, playing around with github and vscode. Trying to see how far I can actually go and understand
+pulls and pushes that one needs to make in order to use github and vscode for development work.
