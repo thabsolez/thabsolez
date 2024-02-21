@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thabsolez
 - 👀 I’m interested in mobile development, .Net, C#, Xamarin, Laravel, DevOps. I love programming.
-- 🌱 I’m currently learning Salesforce and Azure. Also getting myself familiar with using github, tailwind and livewire.
+- 🌱 I’m currently getting myself familiar with using github, tailwind and livewire and filament.
 - 💞️ I’m looking to collaborate on anything that can help me advance my coding skills and introduce me to different aspects of programming
 - 📫 How to reach me: email me on thabsolezmb@gmail.com or thabsolez@hotmail.co.za
 
